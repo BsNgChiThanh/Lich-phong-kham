@@ -1,5 +1,7 @@
 # PHÒNG KHÁM BỆNH NỘI TỔNG HỢP BÁC SĨ NGUYỄN CHÍ THÀNH #
 
+### Phone: 0914678254 ###
+
 # LỊCH KHÁM BỆNH TỪ 18/7 ĐẾN 24/7/2022 #
 
 |**Thứ**| **Ngày**| **Khám buổi sáng**| **Khám buổi trưa**| **Khám buổi chiều**| 
@@ -11,8 +13,6 @@
 |Thứ 6|22/7|5h30-6h30|**NGHỈ**|**NGHỈ**|
 |Thứ 7|23/7|**NGHỈ**|11h00-12h30|17h00-18h30|
 |Chủ nhật|24/7|5h30-6h30|11h00-12h30|17h00-18h30|
-
-### Phone: 0914678254 ###
 
 # LỊCH KHÁM BỆNH TỪ 11/7 ĐẾN 17/7/2022 #
 
