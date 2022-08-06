@@ -2,7 +2,7 @@
 
 ### Phone: 0914678254 ###
 
-# LỊCH KHÁM BỆNH TỪ 01/8 ĐẾN 07/8/2022 #
+# LỊCH KHÁM BỆNH TỪ 08/8 ĐẾN 14/8/2022 #
 
 |**Thứ**| **Ngày**| **Khám buổi sáng**| **Khám buổi trưa**| **Khám buổi chiều**| 
 |--|--|--|--|--|
