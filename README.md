@@ -1,6 +1,19 @@
 # PHÒNG KHÁM BỆNH NỘI TỔNG HỢP BÁC SĨ NGUYỄN CHÍ THÀNH #
 
 ### Phone: 0914678254 ###
+
+# LỊCH KHÁM BỆNH TỪ 30/10 ĐẾN 06/11/2022 #
+
+|**Thứ**| **Ngày**| **Khám buổi sáng**| **Khám buổi trưa**| **Khám buổi chiều**| 
+|--|--|--|--|--|
+|Thứ 2|31/10|5h30-6h30|11h00-12h30|17h00-18h30|
+|Thứ 3|01/11|5h30-6h30|11h00-12h30|17h00-18h30|
+|Thứ 4|02/11|5h30-6h30|**NGHỈ**|**NGHỈ**|
+|Thứ 5|03/11|**NGHỈ**|11h00-12h30|17h00-18h30|
+|Thứ 6|04/11|5h30-6h30|11h00-12h30|17h00-18h30|
+|Thứ 7|05/11|5h30-6h30|**NGHỈ**|**NGHỈ**|
+|Chủ nhật|06/11|**NGHỈ**|11h00-12h30|17h00-18h30|
+
 # LỊCH KHÁM BỆNH TỪ 24/10 ĐẾN 30/10/2022 #
 
 |**Thứ**| **Ngày**| **Khám buổi sáng**| **Khám buổi trưa**| **Khám buổi chiều**| 
