@@ -2,7 +2,7 @@
 
 ### Phone: 0914678254 ###
 
-# LỊCH KHÁM BỆNH TỪ 21/11 ĐẾN 20/11/2022 #
+# LỊCH KHÁM BỆNH TỪ 21/11 ĐẾN 27/11/2022 #
 
 |**Thứ**| **Ngày**| **Khám buổi sáng**| **Khám buổi trưa**| **Khám buổi chiều**| 
 |--|--|--|--|--|
