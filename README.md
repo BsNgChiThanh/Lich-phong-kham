@@ -1,6 +1,21 @@
 # PHÒNG KHÁM BỆNH NỘI TỔNG HỢP BÁC SĨ NGUYỄN CHÍ THÀNH #
 
-### Phone: 0914678254 ###
+  - Phone: 0914678254
+  - Zalo: https://zalo.me/0914678254
+  - FaceBook: https://m.facebook.com/BsNguyenChiThanh
+
+
+# LỊCH KHÁM BỆNH TỪ 05/11 ĐẾN 11/12/2022 #
+
+|**Thứ**| **Ngày**| **Khám buổi sáng**| **Khám buổi trưa**| **Khám buổi chiều**| 
+|--|--|--|--|--|
+|Thứ 2|05/12|**NGHỈ**|11h00-12h30|**NGHỈ**|
+|Thứ 3|06/12|5h30-6h30|**NGHỈ**|**NGHỈ**|
+|Thứ 4|07/12|**NGHỈ**|11h00-12h30|17h00-18h30|
+|Thứ 5|08/12|5h30-6h30|**NGHỈ**|**NGHỈ**|
+|Thứ 6|09/12|**NGHỈ**|11h00-12h30|17h00-18h30|
+|Thứ 7|10/12|5h30-6h30|11h00-12h30|17h00-18h30|
+|Chủ nhật|11/12|5h30-6h30|11h00-12h30|17h00-18h30|
 
 # LỊCH KHÁM BỆNH TỪ 28/11 ĐẾN 04/12/2022 #
 
