@@ -4,6 +4,17 @@
   - Zalo: https://zalo.me/0914678254
   - FaceBook: https://m.facebook.com/BsNguyenChiThanh
 
+# LỊCH KHÁM BỆNH TỪ 12/12 ĐẾN 18/12/2022 #
+
+|**Thứ**| **Ngày**| **Khám buổi sáng**| **Khám buổi trưa**| **Khám buổi chiều**| 
+|--|--|--|--|--|
+|Thứ 2|12/12|5h30-6h30|**NGHỈ**|**NGHỈ**| 
+|Thứ 3|13/12|**NGHỈ**|11h00-12h30|17h00-18h30| 
+|Thứ 4|14/12|5h30-6h30|11h00-12h30|17h00-18h30|
+|Thứ 5|15/12|5h30-6h30|11h00-12h30|17h00-18h30|
+|Thứ 6|16/12|5h30-6h30|**NGHỈ**|**NGHỈ**| 
+|Thứ 7|17/12|**NGHỈ**|11h00-12h30|17h00-18h30| 
+|Chủ nhật|18/12|5h30-6h30|11h00-12h30|17h00-18h30|
 
 # LỊCH KHÁM BỆNH TỪ 05/11 ĐẾN 11/12/2022 #
 
