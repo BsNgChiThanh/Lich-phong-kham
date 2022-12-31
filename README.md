@@ -4,6 +4,18 @@
   - Zalo: https://zalo.me/0914678254
   - FaceBook: https://m.facebook.com/BsNguyenChiThanh
 
+# LỊCH KHÁM BỆNH TỪ 02/01 ĐẾN 08/01/2023 #
+
+|**Thứ**| **Ngày**| **Khám buổi sáng**| **Khám buổi trưa**| **Khám buổi chiều**| 
+|--|--|--|--|--|
+|Thứ 2|02/01|**NGHỈ**|11h00-12h30|17h00-18h30|
+|Thứ 3|03/01|5h30-6h30|**NGHỈ**|**NGHỈ**| 
+|Thứ 4|04/01|**NGHỈ**|11h00-12h30|17h00-18h30|
+|Thứ 5|05/01|5h30-6h30|**NGHỈ**|**NGHỈ**| 
+|Thứ 6|06/01|**NGHỈ**|11h00-12h30|17h00-18h30|
+|Thứ 7|07/01|5h30-6h30|11h00-12h30|17h00-18h30|
+|Chủ nhật|08/01|5h30-6h30|11h00-12h30|17h00-18h30|
+
 # LỊCH KHÁM BỆNH TỪ 26/12 ĐẾN 01/01/2023 #
 
 |**Thứ**| **Ngày**| **Khám buổi sáng**| **Khám buổi trưa**| **Khám buổi chiều**| 
