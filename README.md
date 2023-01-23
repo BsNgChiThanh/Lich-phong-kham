@@ -4,7 +4,23 @@
   - Zalo: https://zalo.me/0914678254
   - FaceBook: https://m.facebook.com/BsNguyenChiThanh
 
+# LỊCH KHÁM BỆNH TỪ 30/01 ĐẾN 05/02/2023 #
+
+# LỊCH SAU TẾT #
+
+|**Thứ**| **Ngày**| **Khám buổi sáng**| **Khám buổi trưa**| **Khám buổi chiều**| 
+|--|--|--|--|--|
+|Thứ 2|30/01|5h30-6h30|11h00-12h30|17h00-18h30|
+|Thứ 3|31/01|5h30-6h30|**NGHỈ**|**NGHỈ**| 
+|Thứ 4|01/02|**NGHỈ**|11h00-12h30|17h00-18h30|
+|Thứ 5|02/02|5h30-6h30|**NGHỈ**|**NGHỈ**| 
+|Thứ 6|03/02|**NGHỈ**|11h00-12h30|17h00-18h30|
+|Thứ 7|04/02|5h30-6h30|11h00-12h30|17h00-18h30|
+|Chủ nhật|05/02|5h30-6h30|11h00-12h30|17h00-18h30|
+
 # LỊCH KHÁM BỆNH TỪ 23/01 ĐẾN 29/01/2023 #
+
+# LỊCH TẾT #
 
 |**Thứ**| **Ngày**| **TẾT BẬN RỘN HÃY GỌI 0914678254 ĐỂ HẸN TRƯỚC**| 
 |--|--|--| 
