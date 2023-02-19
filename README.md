@@ -4,6 +4,18 @@
   - Zalo: https://zalo.me/0914678254
   - FaceBook: https://m.facebook.com/BsNguyenChiThanh
 
+# LỊCH KHÁM BỆNH TỪ 20/02 ĐẾN 26/02/2023 #
+
+|**Thứ**  | **Ngày**| **Buổi sáng**     | **Buổi trưa**     | **Buổi chiều**     | 
+|--       |--       |--                 |--                 |--                  |
+|Thứ 2    |20/02    |5h30-6h30          |**NGHỈ**           |**NGHỈ**            | 
+|Thứ 3    |21/03    |**NGHỈ**           |11h00-12h30        |17h00-18h30         |
+|Thứ 4    |22/02    |5h30-6h30          |11h00-12h30        |17h00-18h30         | 
+|Thứ 5    |23/02    |5h30-6h30          |**NGHỈ**           |**NGHỈ**            | 
+|Thứ 6    |24/02    |**NGHỈ**           |11h00-12h30        |17h00-18h30         |
+|Thứ 7    |25/02    |5h30-6h30          |11h00-12h30        |17h00-18h30         |
+|Chủ nhật |26/02    |5h30-6h30          |**NGHỈ**           |**NGHỈ**            | 
+
 # LỊCH KHÁM BỆNH TỪ 13/02 ĐẾN 19/02/2023 #
 
 |**Thứ**  | **Ngày**| **Buổi sáng**     | **Buổi trưa**     | **Buổi chiều**     | 
