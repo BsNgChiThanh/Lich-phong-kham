@@ -4,6 +4,20 @@
   - Zalo: https://zalo.me/0914678254
   - FaceBook: https://m.facebook.com/BsNguyenChiThanh
 
+# LỊCH KHÁM BỆNH TỪ 12/6 ĐẾN 18/6/2023 #
+
+
+
+|**Thứ**     | **Ngày**| **Sáng**          | **Trưa**          | **Chiều**          | 
+|--          |--       |--                 |--                 |--                  |
+|**Thứ 2**   |12/6     |**NGHỈ**           |**NGHỈ**           |**NGHỈ**            |
+|**Thứ 3**   |13/6     |5h30-6h30          |11h00-12h30        |17h00-18h30         |       
+|**Thứ 4**   |14/6     |5h30-6h30          |**NGHỈ**           |**NGHỈ**            |  
+|**Thứ 5**   |15/6     |**NGHỈ**           |11h00-12h30        |17h00-18h30         |  
+|**Thứ 6**   |16/6     |5h30-6h30          |11h00-12h30        |17h00-18h30         |  
+|**Thứ 7**   |17/6     |5h30-6h30          |**NGHỈ**           |**NGHỈ**            |   
+|**Chủ nhật**|18/6     |**NGHỈ**           |11h00-12h30        |17h00-18h30         |    
+
 # LỊCH KHÁM BỆNH TỪ 05/6 ĐẾN 11/6/2023 #
 
 ## Do tuần này đi học chính trị từ 05/6 đến hết ngày 09/6 nên lịch phòng khám có thay đổi, mong quí khách xem lịch kỹ hơn! ##
