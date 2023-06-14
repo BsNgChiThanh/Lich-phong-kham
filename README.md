@@ -4,7 +4,7 @@
   - Zalo: https://zalo.me/0914678254
   - FaceBook: https://m.facebook.com/BsNguyenChiThanh
   - Công khám bệnh: 50.000 đồng/1 người/1 lần khám bệnh.
-  - Thanh toán chuyển khoản qua ngân hàng: 
+  - Thanh toán chuyển khoản qua tài khoản ngân hàng: 
   - ![image](https://github.com/BsNgChiThanh/Lich-phong-kham/assets/82578024/a1250016-9f8b-40f9-84d9-42d88a7cca22)
 
 # LỊCH KHÁM BỆNH TỪ 12/6 ĐẾN 18/6/2023 #
