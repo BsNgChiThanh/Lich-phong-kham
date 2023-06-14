@@ -3,14 +3,15 @@
   - Phone: 0914678254
   - Zalo: https://zalo.me/0914678254
   - FaceBook: https://m.facebook.com/BsNguyenChiThanh
+  - Công khám bệnh: 50.000 đồng/1 người/1 lần khám bệnh.
+  - Thanh toán không dùng tiền mặt: 
+  - ![image](https://github.com/BsNgChiThanh/Lich-phong-kham/assets/82578024/a1250016-9f8b-40f9-84d9-42d88a7cca22)
 
 # LỊCH KHÁM BỆNH TỪ 12/6 ĐẾN 18/6/2023 #
 
-
-
 |**Thứ**     | **Ngày**| **Sáng**          | **Trưa**          | **Chiều**          | 
 |--          |--       |--                 |--                 |--                  |
-|**Thứ 2**   |12/6     |**NGHỈ**           |**NGHỈ**           |17h00-18h30            |
+|**Thứ 2**   |12/6     |**NGHỈ**           |**NGHỈ**           |17h00-18h30         |
 |**Thứ 3**   |13/6     |5h30-6h30          |11h00-12h30        |17h00-18h30         |       
 |**Thứ 4**   |14/6     |5h30-6h30          |**NGHỈ**           |**NGHỈ**            |  
 |**Thứ 5**   |15/6     |**NGHỈ**           |11h00-12h30        |17h00-18h30         |  
