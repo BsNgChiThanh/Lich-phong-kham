@@ -6,6 +6,18 @@
   - Thanh toán chuyển khoản qua tài khoản ngân hàng: 
   - ![image](https://github.com/BsNgChiThanh/Lich-phong-kham/assets/82578024/a1250016-9f8b-40f9-84d9-42d88a7cca22)
 
+# LỊCH KHÁM BỆNH TỪ 19/6 ĐẾN 25/6/2023 #
+
+|**Thứ**     | **Ngày**| **Sáng**          | **Trưa**          | **Chiều**          | 
+|--          |--       |--                 |--                 |--                  |
+|**Thứ 2**   |19/6     |5h30-6h30          |11h00-12h30        |17h00-18h30         |   
+|**Thứ 3**   |20/6     |5h30-6h30          |**NGHỈ**           |**NGHỈ**            |         
+|**Thứ 4**   |21/6     |**NGHỈ**           |11h00-12h30        |17h00-18h30         |  
+|**Thứ 5**   |22/6     |5h30-6h30          |**NGHỈ**           |**NGHỈ**            |   
+|**Thứ 6**   |23/6     |**NGHỈ**           |11h00-12h30        |17h00-18h30         |   
+|**Thứ 7**   |24/6     |5h30-6h30          |11h00-12h30        |17h00-18h30         |  
+|**Chủ nhật**|25/6     |5h30-6h30          |11h00-12h30        |17h00-18h30         |   
+
 # LỊCH KHÁM BỆNH TỪ 12/6 ĐẾN 18/6/2023 #
 
 |**Thứ**     | **Ngày**| **Sáng**          | **Trưa**          | **Chiều**          | 
