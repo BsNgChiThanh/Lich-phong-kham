@@ -6,7 +6,19 @@
   - Thanh toán chuyển khoản qua tài khoản ngân hàng: 
   - ![image](https://github.com/BsNgChiThanh/Lich-phong-kham/assets/82578024/a1250016-9f8b-40f9-84d9-42d88a7cca22)
 
-# LỊCH KHÁM BỆNH TỪ 10/7 ĐẾN 16/7/2023 #
+# LỊCH KHÁM BỆNH TỪ 24/7 ĐẾN 30/7/2023 #
+
+|**Thứ**     | **Ngày**| **Sáng**          | **Trưa**          | **Chiều**          | 
+|--          |--       |--                 |--                 |--                  |
+|**Thứ 2**   |24/7     |5h30-6h30          |11h00-12h30        |17h00-18h30         |  
+|**Thứ 3**   |25/7     |5h30-6h30          |11h00-12h30        |17h00-18h30         |  
+|**Thứ 4**   |26/7     |5h30-6h30          |**NGHỈ**           |**NGHỈ**            |  
+|**Thứ 5**   |27/7     |**NGHỈ**           |11h00-12h30        |17h00-18h30         |   
+|**Thứ 6**   |28/7     |5h30-6h30          |**NGHỈ**           |**NGHỈ**            |  
+|**Thứ 7**   |29/7     |**NGHỈ**           |11h00-12h30        |17h00-18h30         |   
+|**Chủ nhật**|30/7     |5h30-6h30          |11h00-12h30        |17h00-18h30         |  
+
+# LỊCH KHÁM BỆNH TỪ 17/7 ĐẾN 23/7/2023 #
 
 |**Thứ**     | **Ngày**| **Sáng**          | **Trưa**          | **Chiều**          | 
 |--          |--       |--                 |--                 |--                  |
