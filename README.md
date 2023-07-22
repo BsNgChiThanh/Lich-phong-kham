@@ -4,7 +4,7 @@
   - Zalo: https://zalo.me/0914678254
   - FaceBook: https://m.facebook.com/BsNguyenChiThanh
   - Thanh toán chuyển khoản qua tài khoản ngân hàng: 
-  - ![image](https://github.com/BsNgChiThanh/Lich-phong-kham/assets/82578024/a1250016-9f8b-40f9-84d9-42d88a7cca22)
+  - ![image](https://github.com/BsNgChiThanh/Lich-phong-kham/assets/82578024/d575f08f-29b1-4848-83b0-fb5e88dcb50c)
 
 # LỊCH KHÁM BỆNH TỪ 24/7 ĐẾN 30/7/2023 #
 
