@@ -6,6 +6,18 @@
   - Thanh toán chuyển khoản qua tài khoản ngân hàng: 
   - ![image](https://github.com/BsNgChiThanh/Lich-phong-kham/assets/82578024/d575f08f-29b1-4848-83b0-fb5e88dcb50c)
 
+# LỊCH KHÁM BỆNH TỪ 16/10 ĐẾN 22/10/2023 #
+
+|**Thứ**     | **Ngày**| **Sáng**          | **Trưa**          | **Chiều**          | 
+|--          |--       |--                 |--                 |--                  |
+|**Thứ 2**   |16/10    |5h30-6h30          |**NGHỈ**           | **NGHỈ**           |    
+|**Thứ 3**   |17/10    |**NGHỈ**           |11h00-12h30        |17h00-18h30         |  
+|**Thứ 4**   |18/10    |5h30-6h30          |11h00-12h30        |17h00-18h30         |    
+|**Thứ 5**   |19/10    |5h30-6h30          |11h00-12h30        |17h00-18h30         |     
+|**Thứ 6**   |20/10    |5h30-6h30          |11h00-12h30        |17h00-18h30         |    
+|**Thứ 7**   |21/10    |5h30-6h30          |**NGHỈ**           | **NGHỈ**           |      
+|**Chủ nhật**|22/10    |**NGHỈ**           |11h00-12h30        |17h00-18h30         |   
+
 # LỊCH KHÁM BỆNH TỪ 09/10 ĐẾN 15/10/2023 #
 
 |**Thứ**     | **Ngày**| **Sáng**          | **Trưa**          | **Chiều**          | 
