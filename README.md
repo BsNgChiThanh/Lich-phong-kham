@@ -6,6 +6,18 @@
   - Thanh toán chuyển khoản qua tài khoản ngân hàng: 
   - ![image](https://github.com/BsNgChiThanh/Lich-phong-kham/assets/82578024/d575f08f-29b1-4848-83b0-fb5e88dcb50c)
 
+# LỊCH KHÁM BỆNH TỪ 18/12 ĐẾN 24/12/2023 #
+
+|**Thứ**     | **Ngày**| **Sáng**          | **Trưa**          | **Chiều**          | 
+|--          |--       |--                 |--                 |--                  |
+|**Thứ 2**   |18/12    |5h30-6h30          |11h00-12h30        |17h00-18h30         |        
+|**Thứ 3**   |19/12    |5h30-6h30          | **NGHỈ**          | **NGHỈ**           |     
+|**Thứ 4**   |20/12    |**NGHỈ**           |11h00-12h30        |17h00-18h30         |         
+|**Thứ 5**   |21/12    |5h30-6h30          | **NGHỈ**          | **NGHỈ**           |             
+|**Thứ 6**   |22/12    |**NGHỈ**           |11h00-12h30        |17h00-18h30         |   
+|**Thứ 7**   |23/12    |5h30-6h30          |11h00-12h30        |17h00-18h30         |         
+|**Chủ nhật**|24/12    |5h30-6h30          |11h00-12h30        |17h00-18h30         |  
+
 # LỊCH KHÁM BỆNH TỪ 11/12 ĐẾN 17/12/2023 #
 
 |**Thứ**     | **Ngày**| **Sáng**          | **Trưa**          | **Chiều**          | 
