@@ -6,7 +6,7 @@
   - Thanh toán chuyển khoản qua tài khoản ngân hàng: 
   - ![image](https://github.com/BsNgChiThanh/Lich-phong-kham/assets/82578024/d575f08f-29b1-4848-83b0-fb5e88dcb50c)
 
-# LỊCH KHÁM BỆNH TỪ 25/12 ĐẾN 31/12/2023 #
+# LỊCH KHÁM BỆNH TỪ 01/01 ĐẾN 07/01/2024 #
 
 |**Thứ**     | **Ngày**| **Sáng**          | **Trưa**          | **Chiều**          | 
 |--          |--       |--                 |--                 |--                  |
