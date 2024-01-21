@@ -6,7 +6,20 @@
   - Thanh toán chuyển khoản qua tài khoản ngân hàng: 
   - ![image](https://github.com/BsNgChiThanh/Lich-phong-kham/assets/82578024/d575f08f-29b1-4848-83b0-fb5e88dcb50c)
 
-# LỊCH KHÁM BỆNH TỪ 08/01 ĐẾN 14/01/2024 #
+# LỊCH KHÁM BỆNH TỪ 23/01 ĐẾN 28/01/2024 #
+
+|**Thứ**     | **Ngày**| **Sáng**          | **Trưa**          | **Chiều**          | 
+|--          |--       |--                 |--                 |--                  |
+|**Thứ 2**   |22/01    |5h30-6h30          |**NGHỈ**           |**NGHỈ**            |      
+|**Thứ 3**   |23/01    |**NGHỈ**           |11h00-12h30        |11h00-12h30         |         
+|**Thứ 4**   |24/01    |**NGHỈ**           | **NGHỈ**          |17h00-18h30         |           
+|**Thứ 5**   |25/01    |5h30-6h30          |11h00-12h30        |17h00-18h30         |                  
+|**Thứ 6**   |26/01    |5h30-6h30          | **NGHỈ**          | **NGHỈ**           |  
+|**Thứ 7**   |27/01    |**NGHỈ**           |11h00-12h30        |17h00-18h30         |         
+|**Chủ nhật**|28/01    |5h30-6h30          |11h00-12h30        |17h00-18h30         |      
+
+
+# LỊCH KHÁM BỆNH TỪ 15/01 ĐẾN 21/01/2024 #
 
 |**Thứ**     | **Ngày**| **Sáng**          | **Trưa**          | **Chiều**          | 
 |--          |--       |--                 |--                 |--                  |
