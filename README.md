@@ -23,7 +23,7 @@ end# PHÒNG KHÁM BỆNH NỘI TỔNG HỢP BÁC SĨ NGUYỄN CHÍ THÀNH #
 
 # LỊCH TẾT #
 
-|**Thứ**| **Ngày**| | 
+|**Thứ**| **Ngày**|**Ghi chú** | 
 |--|--|--| 
 |**Thứ 5**   |08/02 **(29 TẾT)**    |**HÃY GỌI ĐIỆN THOẠI HẸN TRƯỚC**| 
 |**Thứ 6**   |09/02 **(30 TẾT)**    |**HÃY GỌI ĐIỆN THOẠI HẸN TRƯỚC**|
