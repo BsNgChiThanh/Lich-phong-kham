@@ -6,6 +6,21 @@ end# PHÒNG KHÁM BỆNH NỘI TỔNG HỢP BÁC SĨ NGUYỄN CHÍ THÀNH #
   - Thanh toán chuyển khoản qua tài khoản ngân hàng: 
   - ![image](https://github.com/BsNgChiThanh/Lich-phong-kham/assets/82578024/d575f08f-29b1-4848-83b0-fb5e88dcb50c)
 
+# LỊCH KHÁM BỆNH TỪ 29/01 ĐẾN 07/02/2024 #
+
+|**Thứ**     | **Ngày**| **Sáng**          | **Trưa**          | **Chiều**          | 
+|--          |--       |--                 |--                 |--                  |
+|**Thứ 2**   |29/01    |5h30-6h30          |11h00-12h30        |17h00-18h30         |    
+|**Thứ 3**   |30/01    |5h30-6h30          | **NGHỈ**          |**NGHỈ**            |           
+|**Thứ 4**   |31/01    |**NGHỈ**           |11h00-12h30        |17h00-18h30         |            
+|**Thứ 5**   |01/02    |5h30-6h30          | **NGHỈ**          |**NGHỈ**            |                    
+|**Thứ 6**   |02/02    |**NGHỈ**           |11h00-12h30        |17h00-18h30         |     
+|**Thứ 7**   |03/02    |5h30-6h30          |11h00-12h30        |17h00-18h30         |       
+|**Chủ nhật**|04/02    |5h30-6h30          |11h00-12h30        |17h00-18h30         |     
+|**Thứ 2**   |05/02    |5h30-6h30          |**NGHỈ**           |**NGHỈ**            |      
+|**Thứ 3**   |06/02    |**NGHỈ**           |11h00-12h30        |11h00-12h30         |         
+|**Thứ 4**   |07/02    |5h30-6h30          |11h00-12h30        |17h00-18h30         |  
+
 # LỊCH KHÁM BỆNH TỪ 23/01 ĐẾN 28/01/2024 #
 
 |**Thứ**     | **Ngày**| **Sáng**          | **Trưa**          | **Chiều**          | 
