@@ -23,12 +23,12 @@ end# PHÒNG KHÁM BỆNH NỘI TỔNG HỢP BÁC SĨ NGUYỄN CHÍ THÀNH #
 
 # LỊCH TẾT #
 
-|**Thứ**| **Ngày**| **TẾT BẬN RỘN HÃY GỌI 0914678254 ĐỂ HẸN TRƯỚC**| 
+|**Thứ**| **Ngày**| | 
 |--|--|--| 
-|**Thứ 5**   |08/02 **(29 TẾT)**|**HÃY GỌI ĐIỆN THOẠI HẸN TRƯỚC**| 
-|**Thứ 6**   |09/02 **(30 TẾT)**|**HÃY GỌI ĐIỆN THOẠI HẸN TRƯỚC**|
+|**Thứ 5**   |08/02 **(29 TẾT)**    |**HÃY GỌI ĐIỆN THOẠI HẸN TRƯỚC**| 
+|**Thứ 6**   |09/02 **(30 TẾT)**    |**HÃY GỌI ĐIỆN THOẠI HẸN TRƯỚC**|
 |**Thứ 7**   |10/02 **(MÙNG 1 TẾT)**|**HÃY GỌI ĐIỆN THOẠI HẸN TRƯỚC**|
-|**Chủ nhật**|11/02 **(MÙNG 2 TẾT)**|**KHÁM BỆNH CẢ NGÀY TỪ 5h30 ĐẾN 18h30**| 
-|**Thứ 2**   |12/02 **(MÙNG 3 TẾT)**|**KHÁM BỆNH CẢ NGÀY TỪ 5h30 ĐẾN 18h30**|   
-|**Thứ 3**   |13/02 **(MÙNG 4 TẾT)**|**KHÁM BỆNH CẢ NGÀY TỪ 5h30 ĐẾN 18h30**|           
-|**Thứ 4**   |14/02 **(MÙNG 5 TẾT)**|**KHÁM BỆNH CẢ NGÀY TỪ 5h30 ĐẾN 18h30**| 
+|**Chủ nhật**|11/02 **(MÙNG 2 TẾT)**|**HÃY GỌI ĐIỆN THOẠI HẸN TRƯỚC**|
+|**Thứ 2**   |12/02 **(MÙNG 3 TẾT)**|**HÃY GỌI ĐIỆN THOẠI HẸN TRƯỚC**| 
+|**Thứ 3**   |13/02 **(MÙNG 4 TẾT)**|**HÃY GỌI ĐIỆN THOẠI HẸN TRƯỚC**|       
+|**Thứ 4**   |14/02 **(MÙNG 5 TẾT)**|**HÃY GỌI ĐIỆN THOẠI HẸN TRƯỚC**| 
