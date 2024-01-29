@@ -1,6 +1,6 @@
 end# PHÒNG KHÁM BỆNH NỘI TỔNG HỢP BÁC SĨ NGUYỄN CHÍ THÀNH #
 
-  - Phone: 0914678254
+  - **Phone: 0914678254**
   - Zalo: https://zalo.me/0914678254
   - FaceBook: https://m.facebook.com/BsNguyenChiThanh
   - Thanh toán chuyển khoản qua tài khoản ngân hàng: 
