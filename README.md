@@ -6,6 +6,15 @@
   - Thanh toán chuyển khoản qua tài khoản ngân hàng: 
   - ![image](https://github.com/BsNgChiThanh/Lich-phong-kham/assets/82578024/d575f08f-29b1-4848-83b0-fb5e88dcb50c)
 
+# LỊCH KHÁM BỆNH TỪ 15/02 ĐẾN 18/02/2024 #
+
+|**Thứ**     | **Ngày**| **Sáng**          | **Trưa**          | **Chiều**          | 
+|--          |--       |--                 |--                 |--                  |
+|**Thứ 5**   |15/02    |5h30-6h30          |11h00-12h30        |17h00-18h30         |        
+|**Thứ 6**   |16/02    |5h30-6h30          |11h00-12h30        |17h00-18h30         |         
+|**Thứ 7**   |17/02    |5h30-6h30          |11h00-12h30        |17h00-18h30         |   
+|**Chủ nhật**|18/02    |5h30-6h30          |**NGHỈ**           |**NGHỈ**            |  
+ 
 # LỊCH TẾT TỪ 08/02 ĐẾN 14/02/2024 #
 
 |**Thứ**| **Ngày**|**Ghi chú** | 
@@ -17,13 +26,3 @@
 |**Thứ 2**   |12/02 **(MÙNG 3 TẾT)**|**[HÃY GỌI ĐIỆN THOẠI HẸN TRƯỚC](https://zalo.me/0914678254)**| 
 |**Thứ 3**   |13/02 **(MÙNG 4 TẾT)**|**[HÃY GỌI ĐIỆN THOẠI HẸN TRƯỚC](https://zalo.me/0914678254)**|       
 |**Thứ 4**   |14/02 **(MÙNG 5 TẾT)**|**[HÃY GỌI ĐIỆN THOẠI HẸN TRƯỚC](https://zalo.me/0914678254)**| 
-
-# LỊCH KHÁM BỆNH TỪ 15/02 ĐẾN 18/02/2024 #
-
-|**Thứ**     | **Ngày**| **Sáng**          | **Trưa**          | **Chiều**          | 
-|--          |--       |--                 |--                 |--                  |
-|**Thứ 5**   |15/02    |5h30-6h30          |11h00-12h30        |17h00-18h30         |        
-|**Thứ 6**   |16/02    |5h30-6h30          |11h00-12h30        |17h00-18h30         |         
-|**Thứ 7**   |17/02    |5h30-6h30          |11h00-12h30        |17h00-18h30         |   
-|**Chủ nhật**|18/02    |5h30-6h30          |**NGHỈ**           |**NGHỈ**            |  
- 
