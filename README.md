@@ -6,7 +6,7 @@
   - Thanh toán chuyển khoản qua tài khoản ngân hàng: 
   - ![image](https://github.com/BsNgChiThanh/Lich-phong-kham/assets/82578024/d575f08f-29b1-4848-83b0-fb5e88dcb50c)
 
-# LỊCH KHÁM BỆNH TỪ 19/02 ĐẾN 25/02/2024 #
+# LỊCH KHÁM BỆNH TỪ 26/02 ĐẾN 03/03/2024 #
 
 |**Thứ**     | **Ngày**| **Sáng**          | **Trưa**          | **Chiều**          | 
 |--          |--       |--                 |--                 |--                  |
