@@ -2,7 +2,7 @@
 
   - **Phone: 0914678254**
   - Zalo: https://zalo.me/0914678254
-  - FaceBook: https://m.facebook.com/BsNguyenChiThanh
+  - FaceBook: https://www.facebook.com/BsNgChiThanh?mibextid=kFxxJD
   - Thanh toán chuyển khoản qua tài khoản ngân hàng: 
   - ![image](https://github.com/BsNgChiThanh/Lich-phong-kham/assets/82578024/d575f08f-29b1-4848-83b0-fb5e88dcb50c)
 
