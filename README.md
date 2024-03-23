@@ -6,6 +6,18 @@
   - Thanh toán chuyển khoản qua tài khoản ngân hàng: 
   - ![image](https://github.com/BsNgChiThanh/Lich-phong-kham/assets/82578024/d575f08f-29b1-4848-83b0-fb5e88dcb50c)
 
+# LỊCH KHÁM BỆNH TỪ 25/03 ĐẾN 31/03/2024 #
+
+|**Thứ**     | **Ngày**| **Sáng**          | **Trưa**          | **Chiều**          | 
+|--          |--       |--                 |--                 |--                  |
+|**Thứ 2**   |25/03    |5h30-6h30          |11h00-12h30        |17h00-18h30         |      
+|**Thứ 3**   |26/03    |5h30-6h30          |11h00-12h30        |17h00-18h30         |    
+|**Thứ 4**   |27/03    |5h30-6h30          |**NGHỈ**           |**NGHỈ**            | 
+|**Thứ 5**   |28/03    |**NGHỈ**           |11h00-12h30        |17h00-18h30         |    
+|**Thứ 6**   |29/03    |5h30-6h30          |11h00-12h30        |17h00-18h30         |      
+|**Thứ 7**   |30/03    |5h30-6h30          |11h00-12h30        |17h00-18h30         |          
+|**Chủ nhật**|31/03    |5h30-6h30          |**NGHỈ**           |**NGHỈ**            | 
+
 # LỊCH KHÁM BỆNH TỪ 18/03 ĐẾN 24/03/2024 #
 
 |**Thứ**     | **Ngày**| **Sáng**          | **Trưa**          | **Chiều**          | 
